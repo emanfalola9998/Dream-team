@@ -1,0 +1,11 @@
+.home-page{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    // place-items: center;
+    align-items: center;
+    height:1200px;
+    &__content{
+        
+    }
+}

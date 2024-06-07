@@ -1,0 +1,362 @@
+[
+    {
+        "id": 0,
+        "TeamName": "Arsenal",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 1,
+        "TeamName": "Aston Villa",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 2,
+        "TeamName": "Bournemouth",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id":3,
+        "TeamName": "Brentford",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 4,
+        "TeamName": "Brighton & Hove Albion",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 5,
+        "TeamName": "Burnley",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 6,
+        "TeamName": "Chelsea",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 7,
+        "TeamName": "Crystal Palace",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id":8 ,
+        "TeamName": "Everton",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 9,
+        "TeamName": "Fulham",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 10,
+        "TeamName": "Liverpool",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 11,
+        "TeamName": "Luton Town",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 12,
+        "TeamName": "Manchester City",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 13,
+        "TeamName": "Manchester United",
+        "budget": 1000000000,
+        "lineup": {
+            "GK": "Onana",
+            "LB": "Luke Shaw",
+            "CB1": "Maguire",
+            "CB2": "Martinez",
+            "RB": "Dalot",
+            "LM": "Rashford",
+            "CDM": "Ambraat",
+            "CM": "Mainoo",
+            "RM": "Garnacho",
+            "CAM": "Fernandes",
+            "ST": "Hoijlund"
+        }
+    },
+    {
+        "id": 14,
+        "TeamName": "Newcastle United",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 15,
+        "TeamName": "Nottingham Forest",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 16,
+        "TeamName": "Sheffield United",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 17,
+        "TeamName": "Tottenham Hotspur",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 18,
+        "TeamName": "West Ham United",
+        "budget": 100000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    },
+    {
+        "id": 19,
+        "TeamName": "Wolverhampton Wanderers",
+        "budget": 5000000,
+        "lineup": {
+            "GK": "",
+            "LB": "",
+            "CB1": "",
+            "CB2": "",
+            "RB": "",
+            "LM": "",
+            "CDM": "",
+            "CM": "",
+            "RM": "",
+            "CAM": "",
+            "ST": ""
+        }
+    }
+]

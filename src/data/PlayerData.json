@@ -1,0 +1,77 @@
+[
+    {
+        "id": "1",
+        "PlayerName": "Kylian Mbappé",
+        "MarketValue": 180000000
+    },
+    {
+        "id": "2",
+        "PlayerName": "Erling Haaland",
+        "MarketValue": 170000000
+    },
+    {
+        "id": "3",
+        "PlayerName": "Vinícius Júnior",
+        "MarketValue": 150000000
+    },
+    {
+        "id": "4",
+        "PlayerName": "Jude Bellingham",
+        "MarketValue": 120000000
+    },
+    {
+        "id": "5",
+        "PlayerName": "Kevin De Bruyne",
+        "MarketValue": 110000000
+    },
+    {
+        "id": "6",
+        "PlayerName": "Lionel Messi",
+        "MarketValue": 100000000
+    },
+    {
+        "id": "7",
+        "PlayerName": "Harry Kane",
+        "MarketValue": 90000000
+    },
+    {
+        "id": "8",
+        "PlayerName": "Mohamed Salah",
+        "MarketValue": 90000000
+    },
+    {
+        "id": "9",
+        "PlayerName": "Neymar Jr.",
+        "MarketValue": 80000000
+    },
+    {
+        "id": "10",
+        "PlayerName": "Robert Lewandowski",
+        "MarketValue": 75000000
+    },
+    {
+        "id": "11",
+        "PlayerName": "Karim Benzema",
+        "MarketValue": 70000000
+    },
+    {
+        "id": "12",
+        "PlayerName": "Sadio Mané",
+        "MarketValue": 70000000
+    },
+    {
+        "id": "13",
+        "PlayerName": "Joshua Kimmich",
+        "MarketValue": 80000000
+    },
+    {
+        "id": "14",
+        "PlayerName": "Phil Foden",
+        "MarketValue": 110000000
+    },
+    {
+        "id": "15",
+        "PlayerName": "Trent Alexander-Arnold",
+        "MarketValue": 80000000
+    }
+]
