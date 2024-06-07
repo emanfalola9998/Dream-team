@@ -2,7 +2,8 @@ export type TeamProps = {
     id: number,
     TeamName: string,
     budget: number,
-    lineup: Lineup
+    lineup: Lineup,
+
 }
 
 
@@ -10,7 +11,8 @@ export type TeamProps = {
 export type PlayerProps = {
     id: number,
     PlayerName: string,
-    MarketValue: number
+    MarketValue: number,
+    positions: string[]
 }
 
 export type Lineup = {

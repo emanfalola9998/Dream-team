@@ -56,6 +56,7 @@ const TeamPage: React.FC<TeamPageProps> = ({ selectedTeam, playerData }) => {
               <li>
                 <button onClick={() => playerSwap(player.id)}>
                   {player.PlayerName}: {player.MarketValue}
+                  {player.positions.map((position) => <ul>{position}</ul>)}
                 </button>
               </li>
             </ul>
